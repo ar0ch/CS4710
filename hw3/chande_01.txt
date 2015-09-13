@@ -1,0 +1,5 @@
+1) A languange w such that w contains 1's and 0's
+2)
+3)
+ S > T0000 | 0T000 | 00T0 | 000T
+ T > 1 | 0 | 1T | T1 | 0T | T0 | E 
